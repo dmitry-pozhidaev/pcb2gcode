@@ -1,3 +1,7 @@
+Немного измененю алгоритм сверления
+Хочется медленного вхождения сверла в фольгу, с последующим ускорением до номинального
+По достижении нижней точки сверло быстро покидает отверстие до уровня перемещения к новой точке
+
 # pcb2gcode [![Build Status](https://github.com/pcb2gcode/pcb2gcode/workflows/CI/badge.svg)](https://github.com/pcb2gcode/pcb2gcode/actions) [![Coverage Status](https://coveralls.io/repos/github/pcb2gcode/pcb2gcode/badge.svg?branch=master)](https://coveralls.io/github/pcb2gcode/pcb2gcode?branch=master) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://payments.wikimedia.org/index.php?title=Special:PaypalExpressGateway&appeal=JimmyQuote&ffname=paypal_ec&recurring=&currency=USD&amount=0&payment_method=paypal&uselang=en&utm_medium=Waystogive&utm_campaign=C11_Waystogive&utm_source=Waystogive)
 
 pcb2gcode is a command-line software for the isolation, routing and drilling of PCBs.
